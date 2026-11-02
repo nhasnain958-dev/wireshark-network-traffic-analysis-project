@@ -1,19 +1,11 @@
 # Wireshark Network Traffic Analysis
 
 ## Overview
-This project demonstrates basic network traffic
-analysis using Wireshark.
-
-## Objectives
-- Capture network traffic.
-- Identify network protocols.
-- Analyze source and destination IP addresses.
-- Apply Wireshark display filters.
+Basic network traffic analysis using Wireshark.
 
 ## Tools Used
 - Wireshark
 - Windows
-- Internet Connection
 
 ## Protocols Analyzed
 - TCP
@@ -23,23 +15,37 @@ analysis using Wireshark.
 - HTTP
 
 ## Display Filters
-| Filter | Purpose |
-|--------|---------|
-| tcp | TCP traffic |
-| udp | UDP traffic |
-| dns | DNS traffic |
-| icmp | ICMP traffic |
-| http | HTTP traffic |
+- tcp
+- udp
+- dns
+- icmp
+- http
 
-## Key Learnings
-- Packet capturing
+## Practical Screenshots
+
+### 1. Packet Capture
+![Packet Capture](Screenshots/01-packet-capture.png)
+
+### 2. DNS Filter
+![DNS Filter](Screenshots/02-dns-filter.png)
+
+### 3. TCP Filter
+![TCP Filter](Screenshots/03-tcp-filter.png)
+
+### 4. UDP Filter
+![UDP Filter](Screenshots/04-udp-filter.png)
+
+### 5. ICMP Filter
+![ICMP Filter](Screenshots/05-icmp-filter.png)
+
+### 6. HTTP Filter
+![HTTP Filter](Screenshots/06-http-filter.png)
+
+### 7. Packet Details
+![Packet Details](Screenshots/07-packet-details.png)
+
+## Learning Outcomes
+- Network packet capturing
 - Protocol identification
 - IP address analysis
-- Display filter application
-
-## Screenshots
-See the Screenshots folder for practical evidence.
-
-## Conclusion
-Learned basic network traffic analysis
-and packet inspection using Wireshark.
+- Display filter usage
