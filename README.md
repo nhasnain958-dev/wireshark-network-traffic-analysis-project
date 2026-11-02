@@ -33,16 +33,16 @@ Basic network traffic analysis using Wireshark.
 ![TCP Filter](Screenshots/03-tcp-filter.png)
 
 ### 4. UDP Filter
-![UDP Filter](Screenshots/04-udp-filter.png)
+![udp filter](Screenshots/04-udp-filter.png)
 
 ### 5. ICMP Filter
-![ICMP Filter](Screenshots/05-icmp-filter.png)
+![icmp filter](Screenshots/05-icmp-filter.png)
 
 ### 6. HTTP Filter
-![HTTP Filter](Screenshots/06-http-filter.png)
+![http filter](Screenshots/06-http-filter.png)
 
 ### 7. Packet Details
-![Packet Details](Screenshots/07-packet-details.png)
+![packet details](Screenshots/07-packet-details.png)
 
 ## Learning Outcomes
 - Network packet capturing
